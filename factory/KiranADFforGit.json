@@ -1,0 +1,9 @@
+{
+	"name": "KiranADFforGit",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "acdf1afd-74cd-46b2-aee5-d1f6b75d5ab8",
+		"tenantId": "e7b2287f-e4c6-4353-b5c3-d704d9560313"
+	}
+}
